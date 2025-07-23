@@ -49,8 +49,8 @@ A simple calculator made using Python to perform arithmetic operations like addi
 ---
 
 ## 🌐 Live Website
+🔗 Hosted on GitHub Pages — [https://srish0718-ui.github.io/portfolio/](https://srish0718-ui.github.io/portfolio/)
 
-🔗 Hosted on Netlify / GitHub Pages — [Link here once deployed!](#)
 
 ---
 
